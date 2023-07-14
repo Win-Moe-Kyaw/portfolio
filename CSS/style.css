@@ -1,0 +1,9 @@
+.fire {
+    width: 250px;
+    height: 150px;
+    border-style: double;
+    border-radius: 15;
+    border-color: red;
+    background-color: bisque;
+ }
+ 
